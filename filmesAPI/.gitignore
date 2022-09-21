@@ -6,6 +6,7 @@ __pycache__/
 # IDE trash
 .DS_Store
 ../.idea/
+../.venv/
 
 # Sphinx documentation
 docs/_build/

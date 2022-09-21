@@ -21,10 +21,7 @@ Rotas da API:
 
 #### Como utilizar?
 -   Faça o download do arquivo zip ou rode ```git clone '[Link do Repositorio]'```
--   Dentro do folder em que contem o Makefile execute ```make install``` para fazer a instalação dos requisitos
--   Em seguida execute ```make migration```
--   Para construir o Dockerfile localmente ```make build```
--   Executando o docker ```make run```
+-   Entre dentro do diretorio ```cd filmesAPI/``` e execute 
+-   Para fazer rodar execute ```make run```
 
-Agora é só acessar a pagina http://127.0.0.1:8000/ pela web ou apps como [Postman](https://www.postman.com)
-    
+Agora é só acessar a pagina http://localhost:8000/filmes/ pela web ou apps como [Postman](https://www.postman.com)
